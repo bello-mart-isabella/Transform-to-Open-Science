@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A primary goal of Transform To Open Science (TOPS) is to create an inclusive environemtn for the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless any identities held, including by not limited to gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Transform To Open Science (TOPS) is to create an inclusive environment for the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of any identities held, including by not limited to gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.  A supplemental goal of this Code of Conduct is to increase open science citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
@@ -12,6 +12,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 [NASA's policies on anti-harassment and diversity are available here.](https://www.nasa.gov/offices/odeo/policy-and-publications)
 
 ## What We Strive For
+
 
 We strive to create a welcoming and inclusive culture that empowers people to participated in outstanding open science. That kind of atmosphere requires an open exchange of ideas, balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
 
@@ -35,10 +36,11 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
  * Posting or displaying sexually explicit or violent material.
  * Posting or threatening to post other people's personally identifying information ("doxing").
  * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
+ * Inappropriate physical contact.
  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
  * Deliberate intimidation, stalking, or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
+
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate including but not limited to a temporary ban or permanent expulsion from the community with or without warning.
 
@@ -54,6 +56,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Reporting Guidelines
 
+
 Instances of both acceptable or unacceptable behaviors may be reported to the community organizers at steven.m.crawford@nasa.gov.
 
 All complaints will be reviewed and investigated promptly and fairly. 
@@ -61,6 +64,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Enforcement Guidelines
+
 
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
@@ -88,6 +92,7 @@ Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
+
 **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
@@ -101,7 +106,7 @@ TOPS is greatly appreciative of the multiple sources that we drew from to build 
 
 * [The Contributor Covenant](http://contributor-covenant.org), [version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
 
-* [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity)
+* [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/inclusion#code-of-conduct--enforcement)
 
 * [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) 
 
