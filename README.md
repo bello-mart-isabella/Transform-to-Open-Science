@@ -68,7 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Earth2Ivey"><img src="https://avatars.githubusercontent.com/u/68339799?v=4?s=100" width="100px;" alt="Yvonne Ivey"/><br /><sub><b>Yvonne Ivey</b></sub></a><br /><a href="#ideas-Earth2Ivey" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://github.com/Earth2Ivey"><img src="https://avatars.githubusercontent.com/u/68339799?v=4?s=100" width="100px;" alt="Yvonne Ivey"/><br /><sub><b>Yvonne Ivey</b></sub></a><br /><a href="#ideas-Earth2Ivey" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=Earth2Ivey" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
