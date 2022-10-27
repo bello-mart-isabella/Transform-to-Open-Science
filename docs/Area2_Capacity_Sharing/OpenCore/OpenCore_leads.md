@@ -1,4 +1,7 @@
 # TOPS Curricula Development Team
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Announcements
 
@@ -80,3 +83,27 @@
 5. [Anne Fouilloux](https://www.linkedin.com/in/annefouilloux/)
 6. [Reina	Camacho Toro](https://www.linkedin.com/in/reina-camacho-toro-b3279762/)
 7. [Elio Campitelli](https://eliocamp.github.io/)
+
+## Contributors
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="http://cgentemann.github.io"><img src="https://avatars.githubusercontent.com/u/35538868?v=4?s=100" width="100px;" alt="Chelle Gentemann"/><br /><sub><b>Chelle Gentemann</b></sub></a><br /><a href="#ideas-cgentemann" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=cgentemann" title="Code">💻</a> <a href="#projectManagement-cgentemann" title="Project Management">📆</a></td>
+      <td align="center"><a href="https://github.com/reeseIngraham"><img src="https://avatars.githubusercontent.com/u/39513784?v=4?s=100" width="100px;" alt="Reese Ingraham"/><br /><sub><b>Reese Ingraham</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=reeseIngraham" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. 
