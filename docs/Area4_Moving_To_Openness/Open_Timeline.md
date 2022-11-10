@@ -18,8 +18,11 @@ The Department of Energy Public Access Gateway for Energy and Science ([DOE PAGE
 ### DoD Public Access Policy
 A precursor to the DoD's public access plan was the [Public Access to the Results of Department of Defense-Funded Research](https://discover.dtic.mil/wp-content/uploads/2018/06/memo_public_access_kendall_20140709.pdf) which directed all authors funded by the DoD to submit final, peer-reviewed journal manuscripts to [Defense Technical Information Center](https://discover.dtic.mil/).
 
+### NASA Plan for Increasing Access to the Results of Scientific Research
+This [plan](https://www.nasa.gov/sites/default/files/atoms/files/206985_2015_nasa_plan-for-web.pdf) is issued in response to the Holdren memo. This plan expanded the breadth of NASA’s open-access culture to include data and publications for all of the scientific research that the NASA sponsors.
+
 ### ODNI Open Government Plan
-The Office of the Director of National Intelligence lists all of its OpenGov initiatives [here](https://www.dni.gov/index.php/opengov), including the [Open Government Plan](https://www.dni.gov/files/documents/FOIA/ODNI_Open_Gov_Plan.pdf), and initiatives on Open Data, Records Management, Public Participation and Information Sharing. The public access plan, released in 2016, is [here](https://www.iarpa.gov/images/pdfs/ODNI_Public_Access_Plan_Sept_2016.pdf).
+The Office of the Director of National Intelligence lists all of its OpenGov initiatives [here](https://www.dni.gov/index.php/opengov), including the [Open Government Plan](https://www.dni.gov/files/documents/FOIA/ODNI_Open_Gov_Plan.pdf), and initiatives on Open Data, Records Management, Public Participation and Information Sharing. 
 
 ### NIH Genomic Data Sharing Policy (GDS)
 NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/), which expands the genome-wide association studies (GWAS) policy and promotes sharing, for research purposes, of large-scale human and non-human genomic data generated from NIH-funded research.
@@ -184,6 +187,9 @@ NSTC issues [Desirable Characteristics of Repositories for Data Resulting from F
 
 ### Generalist Repository Ecosystem Initiative (GREI)
 NIH launches the [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/news/nih-office-of-data-science-strategy-announces-new-initiative-to-improve-data-access), which brings together generalist repositories to collaborate on shared efforts to enhance the discoverability of NIH-funded data, including common metadata models, open metrics, and training for researchers.
+
+### Anticipated release ~Nov NASA new scientific information policy SPD-41a
+Details added upon release. 
 
 # Other Resources
 * The **University of Michigan** has a partial list of US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
