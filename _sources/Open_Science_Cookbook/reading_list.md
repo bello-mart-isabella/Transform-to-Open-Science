@@ -4,6 +4,8 @@
 
 ## Open Science Policy and Government Recommendations
 - UNESCO 2021 [Recommendations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
+     - Update: The [recording](https://www.youtube.com/watch?v=jCOhwbYmITA) and a [summary report](https://unesdoc.unesco.org/ark:/48223/pf0000383807.locale=en) of the second meeting of the *UNESCO Recommendation on Open Science* held on 26 September 2022
+     - You may find the recordings and reports from all the Working Group meetings on UNESCO's [Open Science webpage](https://www.unesco.org/en/natural-sciences/open-science/implementation#open-science-working-groups)
 - NASEM 2018 [Open Science by Design](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century)
 - NASEM 2018 [Best Practices for a Future Open Code Policy for NASA Space Science](https://www.nationalacademies.org/our-work/best-practices-for-a-future-open-code-policy-for-nasa-space-science)
 - NASEM 2021 [Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop](https://www.nationalacademies.org/our-work/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)
@@ -31,12 +33,13 @@
 
 ## Mentorship
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
+- The [Research Software Alliance](https://www.researchsoft.org/#) has monthly meetings focused on advancing tools for and usage of open-source software for research, more information is [here](https://www.researchsoft.org/events/2022-06/)
 
 ## Podcasts
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)
 
 ## Open Science Publications
-*This reading list is organized following the structure of the TOPS [Open Science curriculum](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*
+*This reading list is organized following the structure of the TOPS [Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*
 
 **Ethos of Open Science**
 * Dominik, M., Nzweundji, J.G., Ahmed, N., Carnicelli, S., Mat Jalaluddin, N.S., Fernandez Rivas, D., Narita, V., Enany, S. and Rios Rojas, C., 2022. Open Science – For Whom?. Data Science Journal, 21(1), p.1. [DOI: http://doi.org/10.5334/dsj-2022-001](http://doi.org/10.5334/dsj-2022-001)
@@ -65,6 +68,8 @@
 * An example of tagging and sharing data from Harvard University,[ DataTags](https://privacytools.seas.harvard.edu/datatags)
 * Computer, vol. 55 The Four Opens: Open Source Beyond the Code. June 2022, pp. 81-84, vol. 55. [DOI: 10.1109/MC.2022.3164124](https://doi.ieeecomputersociety.org/10.1109/MC.2022.3164124)
 * Lowenberg, D. (2022). Recognizing Our Collective Responsibility in the Prioritization of Open Data Metrics. Harvard Data Science Review, 4(3). [https://doi.org/10.1162/99608f92.c71c3479](https://doi.org/10.1162/99608f92.c71c3479)
+* Science, Digital; Goodey, Gregory; Hahnel, Mark; Zhou, Yuanchun; Jiang, Lulu; Chandramouliswaran, Ishwar; et al. (2022): The State of Open Data 2022. Digital Science. Report. [https://doi.org/10.6084/m9.figshare.21276984.v5](https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2022/21276984)
+* [FAIR Data case studies](https://www.sheffield.ac.uk/openresearch/faircasestudies) by the University of Sheffield
 
 **Open Software**
 * Ince et al. (2012). The case for open computer programs. [doi.org/10.1038/nature10836](https://www.nature.com/articles/nature10836)
